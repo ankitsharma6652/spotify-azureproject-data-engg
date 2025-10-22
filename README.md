@@ -127,3 +127,12 @@ This allows running the same pipeline dynamically for multiple tables and load t
 Data Engineer | Analytics Enthusiast  
 💼 [LinkedIn](https://www.linkedin.com/in/ankit-sharma)  
 📧 [Email](mailto:ankitcoolji@gmail.com)
+
+## 🌟 Repository Badges
+
+![Azure Data Factory](https://img.shields.io/badge/Azure-Data%20Factory-blue?logo=microsoft-azure)
+![Databricks](https://img.shields.io/badge/Azure-Databricks-orange?logo=databricks)
+![Spark](https://img.shields.io/badge/Apache-Spark-red?logo=apache-spark)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow?logo=python)
+![GitHub](https://img.shields.io/badge/VersionControl-GitHub-black?logo=github)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
